@@ -1,0 +1,6 @@
+des.wav 
+pa.wav 
+cito.wav 
+hey.wav 
+beter.wav 
+beam.wav svox.wav
