@@ -1,0 +1,2 @@
+#!/bin/bash
+convert -gravity South -size 1920x1080 -channel RGBA -background none -bordercolor none -border 3 -fill Yellow -font San-Francisco-Display-Regular -pointsize 98 caption:@.dominae/ssub.txt ~/.dominae/ssub.png

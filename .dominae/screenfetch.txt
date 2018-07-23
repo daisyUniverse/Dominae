@@ -1,0 +1,16 @@
+ evshaddock@Hacktar
+ OS: Antergos 
+ Kernel: x86_64 Linux 4.17.6-1-ARCH
+ Uptime: 5d 13h 30m
+ Packages: 1440
+ Shell: bash 4.4.23
+ Resolution: 5760x1200
+ DE: KDE 5.48.0 / Plasma 5.13.3
+ WM: KWin
+ WM Theme: OneDark
+ GTK Theme: Breeze-Dark [GTK2/3]
+ Icon Theme: breeze
+ Font: San Francisco Display Light
+ CPU: AMD Ryzen 5 1600 Six-Core @ 12x 3.2GHz [48.0°C]
+ GPU: GeForce GTX 970
+ RAM: 9354MiB / 16039MiB
