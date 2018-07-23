@@ -7,7 +7,7 @@ A: Currently, it's running on my server. Users can run commands to trigger scrip
 
 ssay: Convert some words into a big image
 
-sfortune: Gives a fortune in the same format
+ssub: makes an image out of some text in a similar manner to a old anime sub. Will work on this later to add the ability to cusomize background images laters.
 
 sfull: takes a full screenshot of my system
 
@@ -19,6 +19,13 @@ sweb: takes a 1920x1080 still from my webcam and posts it on the server
 
 smov: records a 10 second clip from my webcam with audio, converts it to vp9 webm, and uploads it to the server
 
+svox: Automatically stitch together .wav files in the VOX folder by name and upload the combined file. Seen working here:
+https://youtu.be/XMvf6feXLjI
+`Note: They all have to be the same bitrate and use the same amount of channels to be used in the same sound composite.`
+
+cls: Uploads a bunch of blank images to clear the chat window. I'd comment this out if you have some people who would spam it
+
+screenfetch: just uploads a screenfetch (Specs) from the host PC.
 
 Q: Why would you do this?
 
@@ -32,13 +39,15 @@ Q: Prereqs?
 
 A: Glad you asked.
 
+-screenfetch
+
 -scrot
 
 -ffmpeg
 
 -fswebcam
 
--fortune
+-sox (Sound eXchange)
 
 -ImageMagick (Convert)
 
